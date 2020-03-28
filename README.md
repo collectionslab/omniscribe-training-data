@@ -1,5 +1,7 @@
 # Omniscribe training data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3732202.svg)](https://doi.org/10.5281/zenodo.3732202)
+
 Project data for Omniscribe: https://github.com/collectionslab/Omniscribe
 
 Omniscribe was developed to detect annotations (marginalia, interlinear markings, provenance marks, etc.) in digitized printed books hosted via the International Image Interoperability Framework (IIIF).

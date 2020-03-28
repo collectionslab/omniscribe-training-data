@@ -1,4 +1,4 @@
-# Omniscribe training data: collecting and processing
+# Omniscribe training data
 
 ## Files and Directories
 
@@ -13,6 +13,8 @@
 * `datasetGenerator.py`: This scripts reads `data.json` and generates three JSON files for training, validation, and testing. Each of these files have to be renamed to `via_region_data.json` and are to be placed in the same directory where the images they represent are located. Note that changing the `SEED` value will create different datasets.
 
 * `annotation-datasets/`: Contains a training set and a validation set for images that contain handwriting. Note that training the model assumes daughter directories "train" and "val" where those directories contain only images.
+
+## Collecting and processing
 
 ### 1. Gathering Data
 

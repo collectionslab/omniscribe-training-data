@@ -80,7 +80,7 @@ Every region is labeled as a polygon; `all_points_x` and `all_points_y` store *x
  ![snippet of raw data](./images/t4.png)
 
 `extractROIs.py` generates a `data.json` file that formats the data to look more like this:
- ![snippet of formatted data](./images/formattedData.png)
+ ![snippet of formatted data](/images/formattedData.png)
 
  Note that the formatting here is arbitrary;  it could be stored in a CSV or other format. We chose this format following [VIA](http://www.robots.ox.ac.uk/~vgg/software/via/), an image annotation tool using this convention.
 

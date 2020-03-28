@@ -1,5 +1,9 @@
 # Omniscribe training data
 
+Project data for Omniscribe: https://github.com/collectionslab/Omniscribe
+
+Omniscribe was developed to detect annotations (marginalia, interlinear markings, provenance marks, etc.) in digitized printed books hosted via the International Image Interoperability Framework (IIIF).
+
 ## Files and Directories
 
 * `rawData.csv`: This csv files stores all the labeled data created from zooniverse users. The data includes regions of interests that were labeled and provides some information of the user who marked them. Further processing of this data is needed before it can be trained.
